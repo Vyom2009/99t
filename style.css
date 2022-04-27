@@ -1,0 +1,23 @@
+.camera {
+    height:500px;
+    width:400px;
+    border-width:40%;
+    border-color: rgb(245, 12, 12);
+}
+.resultRow {
+    width: 500px;
+    height: 100px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.copy_right_footer {
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    size: 70%;
+
+}
+img-hover{
+    border-radius: 140px;
+}
